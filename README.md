@@ -1,2 +1,2 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ethanknights&theme=dark)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ethanknights&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
