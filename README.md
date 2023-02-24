@@ -2,6 +2,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ethanknights&&hide_progress=true&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanknights&show_icons=true&theme=transparent)
 
-<div data-badge-popover="right" data-badge-type="1" data-doi="10.1523/JNEUROSCI.1111-21.2021" class="altmetric-embed"></div>
-
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3840208)](https://stackoverflow.com/users/3840208/ethanknights)
