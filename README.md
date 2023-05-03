@@ -2,34 +2,58 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanknights&show_icons=true&theme=transparent&hide_border=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ethanknights&&hide_progress=true&custom_title=Top%20Languages&hide=css,html,m&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="ovi" />
 
-# Representative Research Articles
+# Representative Research Projects
 
-## 2022
-### The Role of the Anterior Temporal Cortex in Action
-[[Article]](https://www.nature.com/articles/s41598-022-12174-9) [[Code]](https://github.com/ethanknights/Knightsetal2021_Hand-selective)
+#### Attentional Bias Correlates toward Angry Faces in Remission from Depression
+[2023] [[Article]](https://www.biorxiv.org/content/10.1101/2023.03.13.532400v1.full)
 
-<b>Summary:</b>
-Machine-learning (searchlight-SVM) & hand motion-tracking identifies a novel brain region that combines sensorimotor & semantic content.
+#### The Role of the Anterior Temporal Cortex in Action
+[2022] [[Code]](https://github.com/ethanknights/Knightsetal2021_Hand-selective) [[Article]](https://www.nature.com/articles/s41598-022-12174-9) [[YouTube]](https://www.youtube.com/watch?v=_XknZjSD-_s)
 
-## 2021
-### Does HAROLD in Motor Cortex Reflect Compensation?
-[[Article]](https://www.jneurosci.org/content/41/45/9361) [[Code]](https://github.com/ethanknights/Knightsetal2021_HAROLD-MVB) 
+#### The Similarity of Lifespan Functional Connectivity across Modality, Task & Time
+[2022] [[Code]](https://github.com/ethanknights/functional-segregation_fMRI-MEG) [[YouTube]](https://www.youtube.com/watch?v=8A5wPargFu4)
 
-<b>Summary:</b>
-Refute the classic HAROLD hypothesis using fMRI machine-learning (MVB) & behavioural regressions.
+#### Depression & regional brain structure across the adult lifespan
+[2022] [[Article]](https://www.sciencedirect.com/science/article/pii/S2213158222002455)
 
-### A case report of optic ataxia in visual neglect & extinction
-[[Article]](https://psyarxiv.com/2qjfs/) [[Code]](https://github.com/ethanknights/neglect) 
+#### Individual differences in brain aging: heterogeneity in cortico-hippocampal but not caudate atrophy rates
+[2022] [[Article]](https://academic.oup.com/cercor/article/33/9/5075/6748491)
 
-<b>Summary:</b>
-Evaluating a single stroke case (CT scan) for presence of concomitant neuropsychological conditions of visuomotor control (optic ataxia) and attention (visual neglect & visual extinctionc).
+#### Does HAROLD in Motor Cortex Reflect Compensation?
+[2021] [[Code]](https://github.com/ethanknights/Knightsetal2021_HAROLD-MVB) [[Article]](https://www.jneurosci.org/content/41/45/9361) [[YouTube]](https://www.youtube.com/watch?v=qwRTZFSYjJA)
 
-### Brain Decoding during Real Actions
-[[Article]](https://www.jneurosci.org/content/41/24/5263/) [[Code]](https://github.com/ethanknights/Knightsetal2021_Hand-selective)
+#### A Neuropsychological Case-Study of Optic Ataxia in Visual Neglect & Extinction
+[2021] [[Code]](https://github.com/ethanknights/neglect) [[Article]](https://psyarxiv.com/2qjfs/) [[YouTube]](https://youtu.be/bWRoFGbKpfs)
 
-<b>Summary:</b>
-Evaluate how the brain represents learnt 3D-object manipulation by applying machine-learning (SVM) to cognitive neuroscientific data (human fMRI).
+#### Brain Decoding during Real Actions
+[2021] [[Code]](https://github.com/ethanknights/Knightsetal2021_Hand-selective) [[Article]](https://www.jneurosci.org/content/41/24/5263/) [[YouTube]](https://www.youtube.com/watch?v=0UAa7IQPkjg)
+
+#### Educational attainment does not influence brain aging
+[2021] [[Code]](https://github.com/Lifebrain/p025_education_brain) [[Article]](https://www.pnas.org/doi/abs/10.1073/pnas.2101644118)
+
+#### Asymmetric thinning is accelerated in Alzheimer’s disease
+[2021] [[Code]](https://github.com/jamesmroe/AgeSym) [[Article]](https://www.nature.com/articles/s41467-021-21057-y)
+
+#### A morphometric double dissociation of cortical thickness & surface area
+[2021] [[Code]](https://osf.io/n6b4j) [[Article]](https://www.biorxiv.org/content/10.1101/2021.09.30.462545v1)
+
+#### Connectivity of Ageing & the Ipsilateral M1 BOLD Response 
+[2021] [[Article]](https://www.mdpi.com/2076-3425/11/9/1130)
+
+#### Effect of APOE on Cognition & Brain in the CAM-CAN cohort
+[2020]
+[[Code]](https://osf.io/ehs9n/) [[Article]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7545750/)
+
+#### How the Brain Grasps Tools: fMRI & Motion-Capture Investigations
+[2019] [[Code]](https://github.com/ethanknights/Knightsetal2021_Hand-selective) [[PhD Thesis]](https://ueaeprints.uea.ac.uk/id/eprint/73707/) [[YouTube]](https://www.youtube.com/watch?v=0UAa7IQPkjg)
+
+#### Does Experience Shape the Lower Visual Field Advantage for Action?
+[2015] [[Conference Proceedings]](https://www.researchgate.net/profile/Stephanie-Rossit/publication/281286893_Does_experience_shape_the_lower_visual_field_advantage_for_action/links/562b77b808ae518e3480e19d/Does-experience-shape-the-lower-visual-field-advantage-for-action.pdf)
+
+#### Prism Adaptation with Anti-Pointing
+[2015]
+[[Code]](https://github.com/ethanknights/prisms_ego-vs-allo/settings) [[Conference Proceedings]](https://researchportal.bath.ac.uk/en/publications/prism-adaptation-effects-are-not-limited-to-dorsal-visual-process/)
+
 
 <br>
-
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fethanknights1212%2Fhit-counter" />
