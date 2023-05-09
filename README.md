@@ -4,9 +4,6 @@
 
 # Representative Research Projects
 
-#### Attentional Bias Correlates toward Angry Faces in Remission from Depression
-[2023] [[Article]](https://www.biorxiv.org/content/10.1101/2023.03.13.532400v1.full)
-
 #### The Role of the Anterior Temporal Cortex in Action
 [2022] [[Code]](https://github.com/ethanknights/Knightsetal2021_Hand-selective) [[Article]](https://www.nature.com/articles/s41598-022-12174-9) [[YouTube]](https://www.youtube.com/watch?v=_XknZjSD-_s)
 
@@ -34,26 +31,12 @@
 #### Asymmetric thinning is accelerated in Alzheimer’s disease
 [2021] [[Code]](https://github.com/jamesmroe/AgeSym) [[Article]](https://www.nature.com/articles/s41467-021-21057-y)
 
-#### A morphometric double dissociation of cortical thickness & surface area
-[2021] [[Code]](https://osf.io/n6b4j) [[Article]](https://www.biorxiv.org/content/10.1101/2021.09.30.462545v1)
-
-#### Connectivity of Ageing & the Ipsilateral M1 BOLD Response 
-[2021] [[Article]](https://www.mdpi.com/2076-3425/11/9/1130)
-
 #### Effect of APOE on Cognition & Brain in the CAM-CAN cohort
 [2020]
 [[Code]](https://osf.io/ehs9n/) [[Article]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7545750/)
 
 #### How the Brain Grasps Tools: fMRI & Motion-Capture Investigations
 [2019] [[Code]](https://github.com/ethanknights/Knightsetal2021_Hand-selective) [[PhD Thesis]](https://ueaeprints.uea.ac.uk/id/eprint/73707/) [[YouTube]](https://www.youtube.com/watch?v=0UAa7IQPkjg)
-
-#### Does Experience Shape the Lower Visual Field Advantage for Action?
-[2015] [[Conference Proceedings]](https://www.researchgate.net/profile/Stephanie-Rossit/publication/281286893_Does_experience_shape_the_lower_visual_field_advantage_for_action/links/562b77b808ae518e3480e19d/Does-experience-shape-the-lower-visual-field-advantage-for-action.pdf)
-
-#### Prism Adaptation with Anti-Pointing
-[2015]
-[[Code]](https://github.com/ethanknights/prisms_ego-vs-allo/settings) [[Conference Proceedings]](https://researchportal.bath.ac.uk/en/publications/prism-adaptation-effects-are-not-limited-to-dorsal-visual-process/)
-
 
 <br>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fethanknights1212%2Fhit-counter" />
