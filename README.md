@@ -1,8 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ethanknights&theme=dark&hide_border=true)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ethanknights&&hide_progress=true&custom_title=Top%20Languages&hide=css,html,m&langs_count=8&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="ovi" />
-
 # Representative Research Projects
-
 #### The Role of the Anterior Temporal Cortex in Action
 [2022] [[Code]](https://github.com/ethanknights/Knightsetal2021_Hand-selective) [[Article]](https://www.nature.com/articles/s41598-022-12174-9) [[YouTube]](https://www.youtube.com/watch?v=_XknZjSD-_s)
 
