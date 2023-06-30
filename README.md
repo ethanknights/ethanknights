@@ -5,12 +5,6 @@
 #### The Similarity of Lifespan Functional Connectivity across Modality, Task & Time
 [2022] [[Code]](https://github.com/ethanknights/functional-segregation_fMRI-MEG) [[YouTube]](https://www.youtube.com/watch?v=8A5wPargFu4)
 
-#### Depression & regional brain structure across the adult lifespan
-[2022] [[Article]](https://www.sciencedirect.com/science/article/pii/S2213158222002455)
-
-#### Individual differences in brain aging: heterogeneity in cortico-hippocampal but not caudate atrophy rates
-[2022] [[Article]](https://academic.oup.com/cercor/article/33/9/5075/6748491)
-
 #### Does HAROLD in Motor Cortex Reflect Compensation?
 [2021] [[Code]](https://github.com/ethanknights/Knightsetal2021_HAROLD-MVB) [[Article]](https://www.jneurosci.org/content/41/45/9361) [[YouTube]](https://www.youtube.com/watch?v=qwRTZFSYjJA)
 
