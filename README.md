@@ -1,4 +1,4 @@
-# Representative Research Projects
+# Representative Research Projects with Code
 #### The Role of the Anterior Temporal Cortex in Action
 [2022] [[Code]](https://github.com/ethanknights/Knightsetal2021_Hand-selective) [[Article]](https://www.nature.com/articles/s41598-022-12174-9) [[YouTube]](https://www.youtube.com/watch?v=_XknZjSD-_s)
 
