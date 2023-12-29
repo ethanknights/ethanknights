@@ -28,5 +28,8 @@
 #### How the Brain Grasps Tools: fMRI & Motion-Capture Investigations
 [2019] [[Code]](https://github.com/ethanknights/Knightsetal2021_Hand-selective) [[PhD Thesis]](https://ueaeprints.uea.ac.uk/id/eprint/73707/) [[YouTube]](https://www.youtube.com/watch?v=0UAa7IQPkjg)
 
+#### Prism Adaptation Effects on Anti-Pointing
+[2015] [[Code]](https://github.com/ethanknights/prisms_ego-vs-allo) [[Article]](https://researchportal.bath.ac.uk/en/publications/prism-adaptation-effects-are-not-limited-to-dorsal-visual-process)
+
 <br>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fethanknights1212%2Fhit-counter" />
