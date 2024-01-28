@@ -1,10 +1,10 @@
 # Representative Research Projects with Code
 
+#### Neural Evidence of Functional Compensation for Fluid Intelligence in Healthy Ageing
+[2024] [[Code]](https://github.com/ethanknights/Knightsetal_fMRI-Cattell-Compensation) [[Article]](https://www.biorxiv.org/content/10.1101/2023.09.29.560099v1) [[Dataset]](https://osf.io/v7kmh/)
+
 #### Functional System Segregation (fMRI & MEG) as a Neural Mediator of Lifestyle on Cognition
 [2024] [[Code]](https://github.com/ethanknights/functional-segregation_fMRI-MEG) [[Article]](https://www.sciencedirect.com/science/article/pii/S0197458023002713) [[Dataset]](https://camcan-archive.mrc-cbu.cam.ac.uk/dataaccess/)
-
-#### Neural Evidence of Functional Compensation for Fluid Intelligence in Healthy Ageing
-[2023] [[Code]](https://github.com/ethanknights/Knightsetal_fMRI-Cattell-Compensation) [[Article]](https://www.biorxiv.org/content/10.1101/2023.09.29.560099v1) [[Dataset]](https://osf.io/v7kmh/)
 
 #### Attention in Action - Peripheral & Bimanual Reaching Deficits in a Single Case Study of Visual Neglect & Extinction Post-Stroke
 [2023] [[Code]](https://github.com/ethanknights/neglect) [[Article]](https://psyarxiv.com/2qjfs/) [[Dataset]](https://osf.io/q8nj6/)
