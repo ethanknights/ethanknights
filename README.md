@@ -9,7 +9,7 @@
 #### Functional System Segregation (fMRI & MEG) as a Neural Mediator of Lifestyle on Cognition
 [2024] [[Code]](https://github.com/ethanknights/functional-segregation_fMRI-MEG) [[Article]](https://www.sciencedirect.com/science/article/pii/S0197458023002713) [[Dataset]](https://camcan-archive.mrc-cbu.cam.ac.uk/dataaccess/)
 
-#### Attention in Action - Peripheral & Bimanual Reaching Deficits in a Single Case Study of Visual Neglect & Extinction Post-Stroke
+#### Attention in Action
 [2023] [[Code]](https://github.com/ethanknights/neglect) [[Article]](https://psyarxiv.com/2qjfs/) [[Dataset]](https://osf.io/q8nj6/)
 
 #### The Role of the Anterior Temporal Cortex in Action
