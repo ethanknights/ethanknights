@@ -3,6 +3,9 @@
 #### Neural Evidence of Functional Compensation for Fluid Intelligence in Healthy Ageing
 [2024] [[Code]](https://github.com/ethanknights/Knightsetal_fMRI-Cattell-Compensation) [[Article]](https://elifesciences.org/reviewed-preprints/93327) [[Dataset]](https://osf.io/v7kmh/)
 
+#### Peripheral & Bimanual Reaching in a Stroke Survivor with Left Visual Neglect and Extinction
+[2024] [[Code]](https://github.com/ethanknights/neglect) [[Article]](https://www.sciencedirect.com/science/article/abs/pii/S0028393224001167) [[Dataset]](https://osf.io/q8nj6/)
+
 #### Functional System Segregation (fMRI & MEG) as a Neural Mediator of Lifestyle on Cognition
 [2024] [[Code]](https://github.com/ethanknights/functional-segregation_fMRI-MEG) [[Article]](https://www.sciencedirect.com/science/article/pii/S0197458023002713) [[Dataset]](https://camcan-archive.mrc-cbu.cam.ac.uk/dataaccess/)
 
