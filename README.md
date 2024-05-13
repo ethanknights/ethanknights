@@ -9,9 +9,6 @@
 #### Functional System Segregation (fMRI & MEG) as a Neural Mediator of Lifestyle on Cognition
 [2024] [[Code]](https://github.com/ethanknights/functional-segregation_fMRI-MEG) [[Article]](https://www.sciencedirect.com/science/article/pii/S0197458023002713) [[Dataset]](https://camcan-archive.mrc-cbu.cam.ac.uk/dataaccess/)
 
-#### Attention in Action
-[2023] [[Code]](https://github.com/ethanknights/neglect) [[Article]](https://psyarxiv.com/2qjfs/) [[Dataset]](https://osf.io/q8nj6/)
-
 #### The Role of the Anterior Temporal Cortex in Action
 [2022] [[Code]](https://github.com/ethanknights/Knightsetal2021_Hand-selective) [[Article]](https://www.nature.com/articles/s41598-022-12174-9) [[YouTube]](https://www.youtube.com/watch?v=_XknZjSD-_s)
 
