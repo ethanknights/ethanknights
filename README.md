@@ -1,3 +1,6 @@
+> [!info] **Word of the Day**
+> *Word of the Day will appear here.*
+
 # Representative Research Projects with Code
 
 #### Neural Evidence of Functional Compensation for Fluid Intelligence in Healthy Ageing
