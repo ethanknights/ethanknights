@@ -1,0 +1,32 @@
+name: Update Word of the Day
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # 6am UTC
+  workflow_dispatch:  # Or manually trigger the action
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch Word of the Day
+        id: wordnik
+        run: |
+          WORDNIK_API_KEY="${{ secrets.WORDNIK_API_KEY }}"
+          WORD_OF_DAY=$(curl -s "https://api.wordnik.com/v4/words.json/wordOfTheDay?api_key=$WORDNIK_API_KEY" | jq -r '.word')
+          DEFINITION=$(curl -s "https://api.wordnik.com/v4/words.json/wordOfTheDay?api_key=$WORDNIK_API_KEY" | jq -r '.definitions[0].text')
+
+          # Update the README.md file with the Word of the Day
+          echo "> [!info] **$WORD_OF_DAY**: $DEFINITION\n> *Word of the Day*" > README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update Word of the Day"
+          git push
