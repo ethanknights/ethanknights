@@ -1,5 +1,9 @@
 # Word of the Day
 
+**horologe**: A piece of mechanism for indicating the hours of the day; a clock; a time-piece of any kind.
+
+---
+
 **$WORD_OF_DAY**: $DEFINITION
 
 ---
