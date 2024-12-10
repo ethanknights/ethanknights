@@ -29,7 +29,7 @@ jobs:
           fi
 
           # Update the README.md with the Word of the Day
-          sed -i "s/> \[!info\] \*\*.*\*\*: .*/> [!info] **$WORD_OF_DAY**: $DEFINITION\n> *Word of the Day*/" README.md
+          sed -i "s|> \[!info\] \*\*.*\*\*: .*|> [!info] **$WORD_OF_DAY**: $DEFINITION\n> *Word of the Day*|" README.md
 
 
       - name: Commit and push changes
