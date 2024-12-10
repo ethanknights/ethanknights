@@ -31,8 +31,11 @@ jobs:
           echo "Fetched Word of the Day: $WORD_OF_DAY"
           echo "Fetched Definition: $DEFINITION"
 
-          # Update the Word of the Day section in README.md
-          sed -i "s|# Word of the Day.*|# Word of the Day\n\n**$WORD_OF_DAY**: $DEFINITION\n\n---|" README.md
+          # Prepare the replacement content
+          NEW_WORD_SECTION="# Word of the Day\n\n**$WORD_OF_DAY**: $DEFINITION\n\n---"
+
+          # Replace content between # Word and ---
+          sed -i "/^# Word/,/^---/c\\$NEW_WORD_SECTION" README.md
 
       - name: Commit and push changes
         run: |
