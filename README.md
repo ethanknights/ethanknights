@@ -1,4 +1,5 @@
-> [!info] **Word of the Day**
+> [!info] **$WORD_OF_DAY**: $DEFINITION
+> *Word of the Day*
 > *Word of the Day will appear here.*
 
 # Representative Research Projects with Code
