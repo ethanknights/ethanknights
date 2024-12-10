@@ -2,8 +2,8 @@ name: Update Word of the Day
 
 on:
   schedule:
-    - cron: "0 6 * * *"  # This runs the action daily at 6 AM UTC
-  workflow_dispatch:  # Allows for manual trigger
+    - cron: "0 6 * * *"  # Runs daily at 6 AM UTC
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   update-readme:
@@ -14,23 +14,25 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Fetch Word of the Day
-        id: wordnik
+        id: fetch_word
         run: |
-          # Fetch the word of the day from Wordnik API
           WORDNIK_API_KEY="${{ secrets.WORDNIK_API_KEY }}"
           RESPONSE=$(curl -s "https://api.wordnik.com/v4/words.json/wordOfTheDay?api_key=$WORDNIK_API_KEY")
           WORD_OF_DAY=$(echo "$RESPONSE" | jq -r '.word')
           DEFINITION=$(echo "$RESPONSE" | jq -r '.definitions[0].text')
 
-          # Safeguard against missing data
+          # Validate fetched data
           if [[ -z "$WORD_OF_DAY" || -z "$DEFINITION" ]]; then
-            echo "Error: Missing word or definition"
+            echo "Error: Missing word or definition from Wordnik API"
             exit 1
           fi
 
-          # Update the README.md with the Word of the Day
-          sed -i "s|> \[!info\] \*\*.*\*\*: .*|> [!info] **$WORD_OF_DAY**: $DEFINITION\n> *Word of the Day*|" README.md
+          # Log fetched data for debugging
+          echo "Fetched Word of the Day: $WORD_OF_DAY"
+          echo "Fetched Definition: $DEFINITION"
 
+          # Update the Word of the Day section in README.md
+          sed -i "s|# Word of the Day.*|# Word of the Day\n\n**$WORD_OF_DAY**: $DEFINITION\n\n---|" README.md
 
       - name: Commit and push changes
         run: |
@@ -39,4 +41,3 @@ jobs:
           git add README.md
           git commit -m "Update Word of the Day"
           git push https://x-access-token:${{ secrets.GH_SECRET }}@github.com/ethanknights/ethanknights.git HEAD:main
-
