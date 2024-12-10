@@ -18,12 +18,19 @@ jobs:
         run: |
           # Fetch the word of the day from Wordnik API
           WORDNIK_API_KEY="${{ secrets.WORDNIK_API_KEY }}"
-          WORD_OF_DAY=$(curl -s "https://api.wordnik.com/v4/words.json/wordOfTheDay?api_key=$WORDNIK_API_KEY" | jq -r '.word')
-          DEFINITION=$(curl -s "https://api.wordnik.com/v4/words.json/wordOfTheDay?api_key=$WORDNIK_API_KEY" | jq -r '.definitions[0].text')
+          RESPONSE=$(curl -s "https://api.wordnik.com/v4/words.json/wordOfTheDay?api_key=$WORDNIK_API_KEY")
+          WORD_OF_DAY=$(echo "$RESPONSE" | jq -r '.word')
+          DEFINITION=$(echo "$RESPONSE" | jq -r '.definitions[0].text')
 
-          # Append the Word of the Day section to README.md
-          # We assume that "Word of the Day" section is marked with a specific heading or comment
-          sed -i '/> \[!info\] \*\*Word of the Day\*\*/c\> [!info] **$WORD_OF_DAY**: $DEFINITION\n> *Word of the Day*' README.md
+          # Safeguard against missing data
+          if [[ -z "$WORD_OF_DAY" || -z "$DEFINITION" ]]; then
+            echo "Error: Missing word or definition"
+            exit 1
+          fi
+
+          # Update the README.md with the Word of the Day
+          sed -i "s/> \[!info\] \*\*.*\*\*: .*/> [!info] **$WORD_OF_DAY**: $DEFINITION\n> *Word of the Day*/" README.md
+
 
       - name: Commit and push changes
         run: |
