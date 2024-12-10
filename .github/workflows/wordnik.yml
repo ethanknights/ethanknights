@@ -31,5 +31,5 @@ jobs:
           git config --global user.email "actions@github.com"
           git add README.md
           git commit -m "Update Word of the Day"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/ethanknights/ethanknights.git HEAD:main
+          git push https://x-access-token:${{ secrets.GH_SECRET }}@github.com/ethanknights/ethanknights.git HEAD:main
 
