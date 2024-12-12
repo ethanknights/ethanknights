@@ -1,6 +1,6 @@
 # Word of the Day
 
-**horologe**: A piece of mechanism for indicating the hours of the day; a clock; a time-piece of any kind.
+**brumal**: Belonging to winter; wintry; hibernal.
 
 ---
 
