@@ -30,6 +30,7 @@ jobs:
           # Log fetched data for debugging
           echo "Fetched Word of the Day: $WORD_OF_DAY"
           echo "Fetched Definition: $DEFINITION"
+          echo "Raw Response: $RESPONSE"
 
           # Prepare the replacement content
           NEW_WORD_SECTION="# Word of the Day\n\n**$WORD_OF_DAY**: $DEFINITION\n\n---"
