@@ -1,6 +1,6 @@
 # Word of the Day
 
-**brumal**: Belonging to winter; wintry; hibernal.
+**astucious**: Subtle; cunning; astute.
 
 ---
 
