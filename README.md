@@ -1,6 +1,6 @@
 # Word of the Day
 
-**astucious**: Subtle; cunning; astute.
+**periplus**: A voyage around a sea, or around a land; circumnavigation.
 
 ---
 
