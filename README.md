@@ -1,6 +1,6 @@
 # Word of the Day
 
-**periplus**: A voyage around a sea, or around a land; circumnavigation.
+**inveterate**: Old; firmly established by long continuance; of long standing; obstinately deep-rooted; as, an inveterate disease; an inveterate habit.
 
 ---
 
