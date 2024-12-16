@@ -1,6 +1,6 @@
 # Word of the Day
 
-**inveterate**: Old; firmly established by long continuance; of long standing; obstinately deep-rooted; as, an inveterate disease; an inveterate habit.
+**coggie**: A small wooden bowl.
 
 ---
 
