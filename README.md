@@ -1,6 +1,6 @@
 # Word of the Day
 
-**coggie**: A small wooden bowl.
+**exode**: In the Greek drama, the concluding part of a play, or the part which comprehends all that, is said after the last choral ode.
 
 ---
 
