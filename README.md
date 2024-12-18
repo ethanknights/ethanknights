@@ -1,6 +1,6 @@
 # Word of the Day
 
-**exode**: In the Greek drama, the concluding part of a play, or the part which comprehends all that, is said after the last choral ode.
+**perennity**: The quality of being perennial.
 
 ---
 
