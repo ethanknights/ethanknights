@@ -1,6 +1,6 @@
 # Word of the Day
 
-**perennity**: The quality of being perennial.
+**chubasco**: A violent squall with thunder and lightning, encountered during the rainy season along the Pacific coast of Central America and South America.
 
 ---
 
