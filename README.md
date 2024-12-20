@@ -1,6 +1,6 @@
 # Word of the Day
 
-**chubasco**: A violent squall with thunder and lightning, encountered during the rainy season along the Pacific coast of Central America and South America.
+**collimate**: To bring into the same line, as the axes of two lenses or the telescope of an optical instrument; also, to make parallel, as the rays of light passing through a lens.
 
 ---
 
