@@ -1,6 +1,6 @@
 # Word of the Day
 
-**collimate**: To bring into the same line, as the axes of two lenses or the telescope of an optical instrument; also, to make parallel, as the rays of light passing through a lens.
+**repastination**: A second or repeated digging up, as of a garden or field.
 
 ---
 
