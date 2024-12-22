@@ -1,6 +1,6 @@
 # Word of the Day
 
-**repastination**: A second or repeated digging up, as of a garden or field.
+**dorlach**: A bundle; a knapsack.
 
 ---
 
