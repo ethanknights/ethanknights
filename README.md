@@ -1,6 +1,6 @@
 # Word of the Day
 
-**dorlach**: A bundle; a knapsack.
+**urgrund**: Basis, foundation, primary principle, cause, or factor; a primal cause or ultimate cosmic principle.
 
 ---
 
