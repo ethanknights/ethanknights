@@ -1,6 +1,6 @@
 # Word of the Day
 
-**urgrund**: Basis, foundation, primary principle, cause, or factor; a primal cause or ultimate cosmic principle.
+**plygain**: A Welsh custom of singing carols at dawn on Christmas morning.
 
 ---
 
