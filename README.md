@@ -1,6 +1,6 @@
 # Word of the Day
 
-**plygain**: A Welsh custom of singing carols at dawn on Christmas morning.
+**frumenty**: A dish made of hulled wheat boiled in milk and seasoned, especially used in England and in some of the southern United States at Christmas.
 
 ---
 
