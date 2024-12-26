@@ -1,6 +1,6 @@
 # Word of the Day
 
-**frumenty**: A dish made of hulled wheat boiled in milk and seasoned, especially used in England and in some of the southern United States at Christmas.
+**pandoro**: A form of panettone without candied fruit in the shape of a star; eaten at Christmas.
 
 ---
 
