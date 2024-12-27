@@ -1,6 +1,6 @@
 # Word of the Day
 
-**pandoro**: A form of panettone without candied fruit in the shape of a star; eaten at Christmas.
+**cynanthropy**: A kind of madness in which the afflicted person imagines himself to be a dog, and imitates its voice and actions.
 
 ---
 
