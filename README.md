@@ -1,6 +1,6 @@
 # Word of the Day
 
-**cynanthropy**: A kind of madness in which the afflicted person imagines himself to be a dog, and imitates its voice and actions.
+**repechage**: A trial heat, especially in rowing, allowing competitors who have already lost a heat another chance to qualify for the semifinals.
 
 ---
 
