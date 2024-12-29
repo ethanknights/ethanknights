@@ -1,6 +1,6 @@
 # Word of the Day
 
-**repechage**: A trial heat, especially in rowing, allowing competitors who have already lost a heat another chance to qualify for the semifinals.
+**appetency**: Fixed and strong desire; esp. natural desire; a craving; an eager appetite.
 
 ---
 
