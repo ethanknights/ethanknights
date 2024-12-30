@@ -1,6 +1,6 @@
 # Word of the Day
 
-**appetency**: Fixed and strong desire; esp. natural desire; a craving; an eager appetite.
+**chalazion**: A cyst in the eyelid, caused by inflammation of a blocked meibomian gland.
 
 ---
 
