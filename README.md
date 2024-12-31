@@ -1,6 +1,6 @@
 # Word of the Day
 
-**chalazion**: A cyst in the eyelid, caused by inflammation of a blocked meibomian gland.
+**falx**: A metal implement, of a form suitable for a pruning-hook, sometimes found among ancient remains.
 
 ---
 
