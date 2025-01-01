@@ -1,6 +1,6 @@
 # Word of the Day
 
-**falx**: A metal implement, of a form suitable for a pruning-hook, sometimes found among ancient remains.
+**perdurable**: Extremely durable; permanent.
 
 ---
 
