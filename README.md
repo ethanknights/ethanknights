@@ -1,6 +1,6 @@
 # Word of the Day
 
-**perdurable**: Extremely durable; permanent.
+**inchoation**: The act of beginning; inception; rudimentary state.
 
 ---
 
