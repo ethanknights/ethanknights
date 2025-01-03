@@ -1,6 +1,6 @@
 # Word of the Day
 
-**inchoation**: The act of beginning; inception; rudimentary state.
+**makebate**: One who excites contentions and quarrels.
 
 ---
 
