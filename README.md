@@ -1,6 +1,6 @@
 # Word of the Day
 
-**makebate**: One who excites contentions and quarrels.
+**puisne**: Lower in rank; junior.
 
 ---
 
