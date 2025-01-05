@@ -1,6 +1,6 @@
 # Word of the Day
 
-**puisne**: Lower in rank; junior.
+**merestone**: A stone to mark a boundary.
 
 ---
 
