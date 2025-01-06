@@ -1,6 +1,6 @@
 # Word of the Day
 
-**merestone**: A stone to mark a boundary.
+**beanfeast**: A feast given by an employer to those whom he employs.
 
 ---
 
