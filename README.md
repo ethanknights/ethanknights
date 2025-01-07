@@ -1,6 +1,6 @@
 # Word of the Day
 
-**beanfeast**: A feast given by an employer to those whom he employs.
+**lavolta**: To spring or whirl as in the lavolta.
 
 ---
 
