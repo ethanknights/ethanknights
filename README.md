@@ -1,6 +1,6 @@
 # Word of the Day
 
-**lavolta**: To spring or whirl as in the lavolta.
+**gibbosity**: The state of being gibbous or gibbose; roundness or protuberance of outline; convexity.
 
 ---
 
