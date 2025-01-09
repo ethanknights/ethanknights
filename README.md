@@ -1,6 +1,6 @@
 # Word of the Day
 
-**gibbosity**: The state of being gibbous or gibbose; roundness or protuberance of outline; convexity.
+**pallasite**: A stony-iron meteorite embedded with glassy crystals of olivine.
 
 ---
 
