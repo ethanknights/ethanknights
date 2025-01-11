@@ -1,6 +1,6 @@
 # Word of the Day
 
-**chlamys**: In ancient Greek costume, a form of mantle which left both arms free, worn especially by equestrians, hunters, and travelers, and by soldiers.
+**querimony**: A complaint; a complaining.
 
 ---
 
