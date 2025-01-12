@@ -1,6 +1,6 @@
 # Word of the Day
 
-**querimony**: A complaint; a complaining.
+**procacity**: Impudence; petulance.
 
 ---
 
