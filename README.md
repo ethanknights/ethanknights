@@ -1,6 +1,6 @@
 # Word of the Day
 
-**procacity**: Impudence; petulance.
+**manqueller**: A mankiller; a manslayer; an executioner.
 
 ---
 
