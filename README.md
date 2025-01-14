@@ -1,6 +1,6 @@
 # Word of the Day
 
-**manqueller**: A mankiller; a manslayer; an executioner.
+**movieoke**: An entertainment in which someone acts out a scene from a movie, against a silent version of it as background.
 
 ---
 
