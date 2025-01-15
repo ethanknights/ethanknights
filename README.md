@@ -1,6 +1,6 @@
 # Word of the Day
 
-**movieoke**: An entertainment in which someone acts out a scene from a movie, against a silent version of it as background.
+**pottle**: a former unit of volume, equivalent to half a gallon, used for liquids and corn
 
 ---
 
