@@ -1,6 +1,6 @@
 # Word of the Day
 
-**pottle**: a former unit of volume, equivalent to half a gallon, used for liquids and corn
+**chrematistics**: Study of wealth
 
 ---
 
