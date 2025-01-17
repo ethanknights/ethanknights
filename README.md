@@ -1,6 +1,6 @@
 # Word of the Day
 
-**chrematistics**: Study of wealth
+**novercal**: Pertaining to a stepmother; suitable to a stepmother; step-motherly.
 
 ---
 
