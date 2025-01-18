@@ -1,6 +1,6 @@
 # Word of the Day
 
-**novercal**: Pertaining to a stepmother; suitable to a stepmother; step-motherly.
+**anergia**: Lack of energy; inactivity.
 
 ---
 
