@@ -1,6 +1,6 @@
 # Word of the Day
 
-**anergia**: Lack of energy; inactivity.
+**reboant**: Reverberating or resounding loudly.
 
 ---
 
