@@ -1,6 +1,6 @@
 # Word of the Day
 
-**reboant**: Reverberating or resounding loudly.
+**swither**: To be indecisive or in a state of confusion; to dither.
 
 ---
 
