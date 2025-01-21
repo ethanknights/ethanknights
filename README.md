@@ -1,6 +1,6 @@
 # Word of the Day
 
-**swither**: To be indecisive or in a state of confusion; to dither.
+**oppugnancy**: Opposition; resistance; contention.
 
 ---
 
