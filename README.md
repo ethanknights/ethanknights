@@ -1,6 +1,6 @@
 # Word of the Day
 
-**oppugnancy**: Opposition; resistance; contention.
+**mussitation**: Speech conducted in a hushed manner, akin to a whisper or a murmur.
 
 ---
 
