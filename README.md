@@ -1,6 +1,6 @@
 # Word of the Day
 
-**mussitation**: Speech conducted in a hushed manner, akin to a whisper or a murmur.
+**tombac**: An alloy of copper and zinc (and sometimes arsenic) used to imitate gold in cheap jewelry and for gilding.
 
 ---
 
