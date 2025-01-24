@@ -1,6 +1,6 @@
 # Word of the Day
 
-**tombac**: An alloy of copper and zinc (and sometimes arsenic) used to imitate gold in cheap jewelry and for gilding.
+**filibeg**: A plaited petticoat or skirt reaching only to the knees, worn by men in the Highlands of Scotland; a kilt.
 
 ---
 
