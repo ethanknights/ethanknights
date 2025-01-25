@@ -1,6 +1,6 @@
 # Word of the Day
 
-**filibeg**: A plaited petticoat or skirt reaching only to the knees, worn by men in the Highlands of Scotland; a kilt.
+**makar**: Scots. A poet.
 
 ---
 
