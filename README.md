@@ -1,6 +1,6 @@
 # Word of the Day
 
-**makar**: Scots. A poet.
+**straphanger**: A standing subway or bus passenger who grips a hanging strap for support.
 
 ---
 
