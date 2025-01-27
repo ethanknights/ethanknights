@@ -1,6 +1,6 @@
 # Word of the Day
 
-**straphanger**: A standing subway or bus passenger who grips a hanging strap for support.
+**brocard**: An elementary principle or maximum; a short, proverbial rule, in law, ethics, or metaphysics.
 
 ---
 
