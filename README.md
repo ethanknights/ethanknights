@@ -1,6 +1,6 @@
 # Word of the Day
 
-**brocard**: An elementary principle or maximum; a short, proverbial rule, in law, ethics, or metaphysics.
+**philomath**: A lover of learning; a scholar.
 
 ---
 
