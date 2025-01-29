@@ -1,6 +1,6 @@
 # Word of the Day
 
-**philomath**: A lover of learning; a scholar.
+**fumacious**: Smoky; hence, fond of smoking; addicted to smoking tobacco.
 
 ---
 
