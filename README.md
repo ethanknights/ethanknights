@@ -1,6 +1,6 @@
 # Word of the Day
 
-**fumacious**: Smoky; hence, fond of smoking; addicted to smoking tobacco.
+**bauson**: An old name of the badger: sometimes applied ludicrously or in contempt to a fat or pertinacious person.
 
 ---
 
