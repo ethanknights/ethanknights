@@ -1,6 +1,6 @@
 # Word of the Day
 
-**bauson**: An old name of the badger: sometimes applied ludicrously or in contempt to a fat or pertinacious person.
+**matrass**: A chemical vessel with a round or oval body and a long neck open at the top, serving the purposes of digestion, evaporation, etc.; a cucurbit. Also called bolt-head.
 
 ---
 
