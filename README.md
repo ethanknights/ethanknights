@@ -1,6 +1,6 @@
 # Word of the Day
 
-**matrass**: A chemical vessel with a round or oval body and a long neck open at the top, serving the purposes of digestion, evaporation, etc.; a cucurbit. Also called bolt-head.
+**balzarine**: A light mixed fabric of cotton and wool for women's dresses, commonly used for summer gowns before the introduction of barege.
 
 ---
 
