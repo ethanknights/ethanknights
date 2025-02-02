@@ -1,6 +1,6 @@
 # Word of the Day
 
-**balzarine**: A light mixed fabric of cotton and wool for women's dresses, commonly used for summer gowns before the introduction of barege.
+**sociogenic**: Arising from or imposed by society.
 
 ---
 
