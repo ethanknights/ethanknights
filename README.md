@@ -1,6 +1,6 @@
 # Word of the Day
 
-**sociogenic**: Arising from or imposed by society.
+**mezzeria**: In Italy, a system of halving the produce of the soil between landowner and landholder: same as metayage.
 
 ---
 
