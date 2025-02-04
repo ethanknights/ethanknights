@@ -1,6 +1,6 @@
 # Word of the Day
 
-**mezzeria**: In Italy, a system of halving the produce of the soil between landowner and landholder: same as metayage.
+**hippocras**: A cordial made from wine and flavored with spices, formerly used as a medicine.
 
 ---
 
