@@ -1,6 +1,6 @@
 # Word of the Day
 
-**hippocras**: A cordial made from wine and flavored with spices, formerly used as a medicine.
+**roustabout**: An unskilled laborer, especially at an oilfield, at a circus or on a ship.
 
 ---
 
