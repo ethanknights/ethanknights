@@ -1,6 +1,6 @@
 # Word of the Day
 
-**roustabout**: An unskilled laborer, especially at an oilfield, at a circus or on a ship.
+**fremitus**: In medicine, palpable vibration, as of the walls of the chest.
 
 ---
 
