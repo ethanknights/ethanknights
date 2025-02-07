@@ -1,6 +1,6 @@
 # Word of the Day
 
-**fremitus**: In medicine, palpable vibration, as of the walls of the chest.
+**cerrado**: A type of tropical savanna biome occupying much of central Brazil and parts of Paraguay.
 
 ---
 
