@@ -1,6 +1,6 @@
 # Word of the Day
 
-**cerrado**: A type of tropical savanna biome occupying much of central Brazil and parts of Paraguay.
+**umbrageous**: Forming or affording a shade; shading; shady.
 
 ---
 
