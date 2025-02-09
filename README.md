@@ -1,6 +1,6 @@
 # Word of the Day
 
-**umbrageous**: Forming or affording a shade; shading; shady.
+**sawder**: Flattery; blarney: used in the phrase soft sawder.
 
 ---
 
