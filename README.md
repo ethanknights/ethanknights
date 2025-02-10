@@ -1,6 +1,6 @@
 # Word of the Day
 
-**sawder**: Flattery; blarney: used in the phrase soft sawder.
+**psychotomimetic**: That induces a temporary state of altered perception and symptoms similar to those of psychosis (such as hallucinations).
 
 ---
 
