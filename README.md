@@ -1,6 +1,6 @@
 # Word of the Day
 
-**psychotomimetic**: That induces a temporary state of altered perception and symptoms similar to those of psychosis (such as hallucinations).
+**diamondiferous**: Diamond-producing: as, diamondiferous earth; a diamondiferous country.
 
 ---
 
