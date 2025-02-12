@@ -1,6 +1,6 @@
 # Word of the Day
 
-**diamondiferous**: Diamond-producing: as, diamondiferous earth; a diamondiferous country.
+**mollydooker**: A left-handed person.
 
 ---
 
