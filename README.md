@@ -1,6 +1,6 @@
 # Word of the Day
 
-**mollydooker**: A left-handed person.
+**neurodiversity**: The variety of configurations of the brain, especially with regard to autism.
 
 ---
 
