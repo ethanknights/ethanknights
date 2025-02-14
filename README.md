@@ -1,6 +1,6 @@
 # Word of the Day
 
-**neurodiversity**: The variety of configurations of the brain, especially with regard to autism.
+**rencounter**: An antagonistic or hostile meeting; a sudden coming in contact; collision; combat.
 
 ---
 
