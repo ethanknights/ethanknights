@@ -1,6 +1,6 @@
 # Word of the Day
 
-**rencounter**: An antagonistic or hostile meeting; a sudden coming in contact; collision; combat.
+**love-philter**: A drink credited with magical power, which can make the one who takes it love the one who gave it; a love potion.
 
 ---
 
