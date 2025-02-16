@@ -1,6 +1,6 @@
 # Word of the Day
 
-**love-philter**: A drink credited with magical power, which can make the one who takes it love the one who gave it; a love potion.
+**vexillologist**: One who studies flags.
 
 ---
 
