@@ -1,6 +1,6 @@
 # Word of the Day
 
-**vexillologist**: One who studies flags.
+**eddish**: An aftergrowth of grass (or other plants) which grows after it has been been mowed; also, a field of such growth.
 
 ---
 
