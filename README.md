@@ -1,6 +1,6 @@
 # Word of the Day
 
-**eddish**: An aftergrowth of grass (or other plants) which grows after it has been been mowed; also, a field of such growth.
+**bibliopegy**: The art of binding books.
 
 ---
 
