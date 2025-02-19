@@ -1,6 +1,6 @@
 # Word of the Day
 
-**bibliopegy**: The art of binding books.
+**proprioception**: The sense of the position of parts of the body, relative to other neighbouring parts of the body.
 
 ---
 
