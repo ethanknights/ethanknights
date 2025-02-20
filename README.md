@@ -1,6 +1,6 @@
 # Word of the Day
 
-**proprioception**: The sense of the position of parts of the body, relative to other neighbouring parts of the body.
+**fire-flaught**: A flash of lightning; specifically, a flash unaccompanied by thunder.
 
 ---
 
