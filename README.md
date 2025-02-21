@@ -1,6 +1,6 @@
 # Word of the Day
 
-**fire-flaught**: A flash of lightning; specifically, a flash unaccompanied by thunder.
+**blazar**: A highly variable active galaxy, characterized by a very compact and highly variable energy source (a supermassive black hole) at the center and its strong optical polarization and variability.
 
 ---
 
