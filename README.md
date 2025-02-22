@@ -1,6 +1,6 @@
 # Word of the Day
 
-**blazar**: A highly variable active galaxy, characterized by a very compact and highly variable energy source (a supermassive black hole) at the center and its strong optical polarization and variability.
+**moloch**: Any lizard of the genus Moloch.
 
 ---
 
