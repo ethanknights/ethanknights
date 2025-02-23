@@ -1,6 +1,6 @@
 # Word of the Day
 
-**moloch**: Any lizard of the genus Moloch.
+**metamaterial**: Any material that obtains its electromagnetic properties from its structure rather than from its chemical composition; especially a material engineered to have features of a size less than that of the wavelength of a class of electromagnetic radiation
 
 ---
 
