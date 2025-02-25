@@ -1,6 +1,6 @@
 # Word of the Day
 
-**sonoluminescence**: The emission of short bursts of light from imploding bubbles in a liquid when excited by sound.
+**mopery**: Violation of an imaginary or trivial law.
 
 ---
 
