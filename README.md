@@ -1,6 +1,6 @@
 # Word of the Day
 
-**mopery**: Violation of an imaginary or trivial law.
+**plastron**: A metal breastplate worn under a coat of mail.
 
 ---
 
