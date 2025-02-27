@@ -1,6 +1,6 @@
 # Word of the Day
 
-**plastron**: A metal breastplate worn under a coat of mail.
+**chutist**: One who parachutes from an aircraft; a parachutist.
 
 ---
 
