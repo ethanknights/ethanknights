@@ -1,6 +1,6 @@
 # Word of the Day
 
-**chutist**: One who parachutes from an aircraft; a parachutist.
+**definiens**: The word or words serving to define another word or expression, as in a dictionary entry.
 
 ---
 
