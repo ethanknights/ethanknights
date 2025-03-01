@@ -1,6 +1,6 @@
 # Word of the Day
 
-**definiens**: The word or words serving to define another word or expression, as in a dictionary entry.
+**unheedy**: Incautious; precipitate; heedless.
 
 ---
 
