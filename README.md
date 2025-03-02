@@ -1,6 +1,6 @@
 # Word of the Day
 
-**unheedy**: Incautious; precipitate; heedless.
+**clodhopper**: A clown; a rustic; a boor.
 
 ---
 
