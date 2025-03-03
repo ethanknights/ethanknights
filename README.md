@@ -1,6 +1,6 @@
 # Word of the Day
 
-**clodhopper**: A clown; a rustic; a boor.
+**stuggy**: Stocky; thick-set; stout.
 
 ---
 
