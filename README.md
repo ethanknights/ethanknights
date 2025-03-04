@@ -1,6 +1,6 @@
 # Word of the Day
 
-**stuggy**: Stocky; thick-set; stout.
+**sottise**: A piece of foolishness; a silly act or action; a stupid thing.
 
 ---
 
