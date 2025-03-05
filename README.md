@@ -1,6 +1,6 @@
 # Word of the Day
 
-**sottise**: A piece of foolishness; a silly act or action; a stupid thing.
+**aleconner**: Originally, an officer appointed to look to the goodness of ale and beer; also, one of the officers chosen by the liverymen of London to inspect the measures used in public houses. But the office is a sinecure. [Also called aletaster.]
 
 ---
 
