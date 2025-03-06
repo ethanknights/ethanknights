@@ -1,6 +1,6 @@
 # Word of the Day
 
-**aleconner**: Originally, an officer appointed to look to the goodness of ale and beer; also, one of the officers chosen by the liverymen of London to inspect the measures used in public houses. But the office is a sinecure. [Also called aletaster.]
+**scordatura**: In stringed musical instruments, an intentional deviation from the usual tuning of the strings for some special effect; the altering of the proper accordatura.
 
 ---
 
