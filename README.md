@@ -1,6 +1,6 @@
 # Word of the Day
 
-**scordatura**: In stringed musical instruments, an intentional deviation from the usual tuning of the strings for some special effect; the altering of the proper accordatura.
+**piosity**: An exaggerated display of piety.
 
 ---
 
