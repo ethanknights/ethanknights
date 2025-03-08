@@ -1,6 +1,6 @@
 # Word of the Day
 
-**piosity**: An exaggerated display of piety.
+**prepense**: Considered and planned beforehand; premeditated; purposed; intentional: generally in the phrase malice prepense (formerly also prepensed malice).
 
 ---
 
