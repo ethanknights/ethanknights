@@ -1,6 +1,6 @@
 # Word of the Day
 
-**prepense**: Considered and planned beforehand; premeditated; purposed; intentional: generally in the phrase malice prepense (formerly also prepensed malice).
+**gozzard**: One who herds geese.
 
 ---
 
