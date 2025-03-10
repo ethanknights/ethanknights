@@ -1,6 +1,6 @@
 # Word of the Day
 
-**gozzard**: One who herds geese.
+**panjandrum**: An imaginary personage of much power or pretension; a burlesque potentate, plenipotentiary, or Great Mogul.
 
 ---
 
