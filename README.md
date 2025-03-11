@@ -1,6 +1,6 @@
 # Word of the Day
 
-**panjandrum**: An imaginary personage of much power or pretension; a burlesque potentate, plenipotentiary, or Great Mogul.
+**pomato**: A fruit said to be the result of amalgamation of the potato and tomato, produced by Luther Burbank. It is a small tomato-like fruit, with white flesh, edible either raw or cooked.
 
 ---
 
