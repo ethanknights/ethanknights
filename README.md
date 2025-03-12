@@ -1,6 +1,6 @@
 # Word of the Day
 
-**pomato**: A fruit said to be the result of amalgamation of the potato and tomato, produced by Luther Burbank. It is a small tomato-like fruit, with white flesh, edible either raw or cooked.
+**desipience**: Silliness; trifling; nonsense.
 
 ---
 
