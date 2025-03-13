@@ -1,6 +1,6 @@
 # Word of the Day
 
-**desipience**: Silliness; trifling; nonsense.
+**cranreuch**: Hoar frost.
 
 ---
 
