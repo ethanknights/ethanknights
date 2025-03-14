@@ -1,6 +1,6 @@
 # Word of the Day
 
-**cranreuch**: Hoar frost.
+**circle-squarer**: A person who devotes himself to attempts to solve one of the two impossible problems of squaring the circle, namely: 1st, by means of a ruler and compasses only to construct a square of the same area as a given circle; 2d, to state in exact arithmetical terms the ratio of the circumference to the diameter.
 
 ---
 
