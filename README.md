@@ -1,6 +1,6 @@
 # Word of the Day
 
-**diremption**: A forcible separation; a tearing asunder.
+**quotha**: Forsooth! indeed! originally a parenthetical phrase used in repeating the words of another with more or less contempt or disdain.
 
 ---
 
