@@ -1,6 +1,6 @@
 # Word of the Day
 
-**quotha**: Forsooth! indeed! originally a parenthetical phrase used in repeating the words of another with more or less contempt or disdain.
+**wheelhouse**: A batter's power zone; one's field of expertise.
 
 ---
 
