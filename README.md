@@ -1,6 +1,6 @@
 # Word of the Day
 
-**wheelhouse**: A batter's power zone; one's field of expertise.
+**stopple**: To stop or close with a stopple.
 
 ---
 
