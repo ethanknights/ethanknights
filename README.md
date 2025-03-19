@@ -1,6 +1,6 @@
 # Word of the Day
 
-**stopple**: To stop or close with a stopple.
+**thutter**: To make a dull, vibrating sound.
 
 ---
 
