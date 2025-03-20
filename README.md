@@ -1,6 +1,6 @@
 # Word of the Day
 
-**thutter**: To make a dull, vibrating sound.
+**grumous**: Resembling or containing grume; thick; viscid; clotted: as, grumous blood.
 
 ---
 
