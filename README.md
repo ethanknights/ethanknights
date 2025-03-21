@@ -1,6 +1,6 @@
 # Word of the Day
 
-**grumous**: Resembling or containing grume; thick; viscid; clotted: as, grumous blood.
+**biophony**: the cumulative non-human sound produced by living organisms in a given biome.
 
 ---
 
