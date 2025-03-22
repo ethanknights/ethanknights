@@ -1,6 +1,6 @@
 # Word of the Day
 
-**biophony**: the cumulative non-human sound produced by living organisms in a given biome.
+**phalanstery**: The building or buildings occupied as a dwelling by a community living together and having goods and property in common as proposed by Fourier. 
 
 ---
 
