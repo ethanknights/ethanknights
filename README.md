@@ -1,6 +1,6 @@
 # Word of the Day
 
-**phalanstery**: The building or buildings occupied as a dwelling by a community living together and having goods and property in common as proposed by Fourier. 
+**dwale**: The deadly nightshade, Atropa Belladonna, which possesses stupefying or poisonous properties.
 
 ---
 
