@@ -1,6 +1,6 @@
 # Word of the Day
 
-**dwale**: The deadly nightshade, Atropa Belladonna, which possesses stupefying or poisonous properties.
+**boffin**: A scientist or engineer, especially one engaged in technological or military research.
 
 ---
 
