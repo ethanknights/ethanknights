@@ -1,6 +1,6 @@
 # Word of the Day
 
-**boffin**: A scientist or engineer, especially one engaged in technological or military research.
+**ethnarch**: The governor of a province or people.
 
 ---
 
