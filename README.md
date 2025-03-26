@@ -1,6 +1,6 @@
 # Word of the Day
 
-**ethnarch**: The governor of a province or people.
+**chirograph**: A contrivance for holding a beginner's hand in a prescribed position while he is learning to write.
 
 ---
 
