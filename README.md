@@ -1,6 +1,6 @@
 # Word of the Day
 
-**chirograph**: A contrivance for holding a beginner's hand in a prescribed position while he is learning to write.
+**cheval-de-frise**: A piece of timber or an iron barrel traversed with iron-pointed spikes or spears, five or six feet long, used to defend a passage, stop a breach, or impede the advance of cavalry, etc.
 
 ---
 
