@@ -1,6 +1,6 @@
 # Word of the Day
 
-**cheval-de-frise**: A piece of timber or an iron barrel traversed with iron-pointed spikes or spears, five or six feet long, used to defend a passage, stop a breach, or impede the advance of cavalry, etc.
+**thraward**: Cross-grained; perverse; stubborn; tough; also, reluctant.
 
 ---
 
