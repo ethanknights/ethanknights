@@ -1,6 +1,6 @@
 # Word of the Day
 
-**thraward**: Cross-grained; perverse; stubborn; tough; also, reluctant.
+**deiform**: Like a god; godlike in form.
 
 ---
 
