@@ -1,6 +1,6 @@
 # Word of the Day
 
-**deiform**: Like a god; godlike in form.
+**synesis**: In grammar and rhetoric, construction according to the sense, in violation of strict syntax.
 
 ---
 
