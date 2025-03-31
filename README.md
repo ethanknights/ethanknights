@@ -1,6 +1,6 @@
 # Word of the Day
 
-**synesis**: In grammar and rhetoric, construction according to the sense, in violation of strict syntax.
+**paraselene**: A bright spot on a lunar halo, produced by refraction through a preponderating number of ice-crystals floating perpendicularly or vertically; a mock moon.
 
 ---
 
