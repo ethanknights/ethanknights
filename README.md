@@ -1,6 +1,6 @@
 # Word of the Day
 
-**fool-born**: Begotten by or born of a fool.
+**tummler**: One, such as a social director or entertainer, who encourages guest or audience participation.
 
 ---
 
