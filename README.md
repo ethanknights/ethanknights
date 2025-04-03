@@ -1,6 +1,6 @@
 # Word of the Day
 
-**tummler**: One, such as a social director or entertainer, who encourages guest or audience participation.
+**opodeldoc**: A saponaceous camphorated liniment; a solution of soap in alcohol with the addition of camphor and essential oils: hence sometimes called soap-liniment.
 
 ---
 
