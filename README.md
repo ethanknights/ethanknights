@@ -1,6 +1,6 @@
 # Word of the Day
 
-**opodeldoc**: A saponaceous camphorated liniment; a solution of soap in alcohol with the addition of camphor and essential oils: hence sometimes called soap-liniment.
+**juratory**: Of, pertaining to, or comprising an oath.
 
 ---
 
