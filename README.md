@@ -1,6 +1,6 @@
 # Word of the Day
 
-**juratory**: Of, pertaining to, or comprising an oath.
+**gutbucket**: A type of jazz music characterized by a strong beat and rollicking delivery.
 
 ---
 
