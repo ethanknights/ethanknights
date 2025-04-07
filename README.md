@@ -1,6 +1,6 @@
 # Word of the Day
 
-**antichthon**: In Pythagorean astronomy, an imaginary invisible planet continually opposing the earth and eclipsing the central fire, round which it was supposed to revolve, in common with the earth, moon, sun, certain planets, and the fixed stars.
+**haysel**: The haying or haymaking time.
 
 ---
 
