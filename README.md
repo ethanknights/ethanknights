@@ -1,6 +1,6 @@
 # Word of the Day
 
-**haysel**: The haying or haymaking time.
+**porte-bonheur**: A charm, an amulet, or a trinket carried after the fashion of an amulet, suspended to a bracelet or other article of personal adornment.
 
 ---
 
