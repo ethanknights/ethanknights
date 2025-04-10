@@ -1,6 +1,6 @@
 # Word of the Day
 
-**palpebra**: The eyelid.
+**hagiarchy**: A sacred or sacerdotal government; government by the priests or clergy.
 
 ---
 
