@@ -1,6 +1,6 @@
 # Word of the Day
 
-**hagiarchy**: A sacred or sacerdotal government; government by the priests or clergy.
+**agogic**: In music, pertaining to or emphasizing slight variations in rhythm for the sake of dynamic expression.
 
 ---
 
