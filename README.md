@@ -1,6 +1,6 @@
 # Word of the Day
 
-**agogic**: In music, pertaining to or emphasizing slight variations in rhythm for the sake of dynamic expression.
+**vendition**: The act of selling; sale.
 
 ---
 
