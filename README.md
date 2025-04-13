@@ -1,6 +1,6 @@
 # Word of the Day
 
-**vendition**: The act of selling; sale.
+**wimble**: To bore or perforate with or as with a wimble.
 
 ---
 
