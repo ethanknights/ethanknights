@@ -1,6 +1,6 @@
 # Word of the Day
 
-**wimble**: To bore or perforate with or as with a wimble.
+**senary**: Of or relating to the number six.
 
 ---
 
