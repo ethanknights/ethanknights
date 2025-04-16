@@ -1,6 +1,6 @@
 # Word of the Day
 
-**festoon**: A string or chain of any material suspended between two points; specifically, a chain or garland of flowers, ribbons, foliage, etc., suspended so as to form one or more depending curves.
+**farouche**: Fierce; wild. 
 
 ---
 
