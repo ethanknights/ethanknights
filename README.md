@@ -1,6 +1,6 @@
 # Word of the Day
 
-**farouche**: Fierce; wild. 
+**dilection**: A loving; preference; choice.
 
 ---
 
