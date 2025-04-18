@@ -1,6 +1,6 @@
 # Word of the Day
 
-**dilection**: A loving; preference; choice.
+**orarium**: A handkerchief or scarf used in waving applause in the circus.
 
 ---
 
