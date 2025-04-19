@@ -1,6 +1,6 @@
 # Word of the Day
 
-**orarium**: A handkerchief or scarf used in waving applause in the circus.
+**cespitose**: Growing in low tufty patches.
 
 ---
 
