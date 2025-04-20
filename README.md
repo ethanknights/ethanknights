@@ -1,6 +1,6 @@
 # Word of the Day
 
-**cespitose**: Growing in low tufty patches.
+**banausic**: Merely mechanical; characteristic of mechanics or a mechanic.
 
 ---
 
