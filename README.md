@@ -1,6 +1,6 @@
 # Word of the Day
 
-**banausic**: Merely mechanical; characteristic of mechanics or a mechanic.
+**gazingstock**: A person or thing gazed at with wonder or curiosity, especially of a scornful kind.
 
 ---
 
