@@ -1,6 +1,6 @@
 # Word of the Day
 
-**gazingstock**: A person or thing gazed at with wonder or curiosity, especially of a scornful kind.
+**ruralpolitan**: An urbanite who moves to the countryside, especially to start an agricultural venture.
 
 ---
 
