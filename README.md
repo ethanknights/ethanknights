@@ -1,6 +1,6 @@
 # Word of the Day
 
-**ruralpolitan**: An urbanite who moves to the countryside, especially to start an agricultural venture.
+**bardolatry**: Excessive worship of William Shakespeare.
 
 ---
 
