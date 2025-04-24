@@ -1,6 +1,6 @@
 # Word of the Day
 
-**bardolatry**: Excessive worship of William Shakespeare.
+**falsidical**: Expressing falsehood; falsifying: opposed to veridical.
 
 ---
 
