@@ -1,6 +1,6 @@
 # Word of the Day
 
-**falsidical**: Expressing falsehood; falsifying: opposed to veridical.
+**frowsty**: Having a musty, stale, or stuffy odor.
 
 ---
 
