@@ -1,6 +1,6 @@
 # Word of the Day
 
-**frowsty**: Having a musty, stale, or stuffy odor.
+**defaunation**: The loss of animals from a habitat.
 
 ---
 
