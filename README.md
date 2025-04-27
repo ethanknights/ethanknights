@@ -1,6 +1,6 @@
 # Word of the Day
 
-**defaunation**: The loss of animals from a habitat.
+**hypogeum**: A subterranean chamber of an ancient building.
 
 ---
 
