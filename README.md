@@ -1,6 +1,6 @@
 # Word of the Day
 
-**hypogeum**: A subterranean chamber of an ancient building.
+**vantage-loaf**: The thirteenth loaf in a baker's dozen.
 
 ---
 
