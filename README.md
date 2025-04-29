@@ -1,6 +1,6 @@
 # Word of the Day
 
-**vantage-loaf**: The thirteenth loaf in a baker's dozen.
+**plumbism**: Chronic lead poisoning.
 
 ---
 
