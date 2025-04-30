@@ -1,6 +1,6 @@
 # Word of the Day
 
-**plumbism**: Chronic lead poisoning.
+**squizz**: A look.
 
 ---
 
