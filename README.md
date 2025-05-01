@@ -1,6 +1,6 @@
 # Word of the Day
 
-**squizz**: A look.
+**amort**: Lifeless; spiritless; depressed: usually in the phrase all amort.
 
 ---
 
