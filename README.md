@@ -1,6 +1,6 @@
 # Word of the Day
 
-**amort**: Lifeless; spiritless; depressed: usually in the phrase all amort.
+**meacock**: An uxorious, effeminate, or spiritless man.
 
 ---
 
