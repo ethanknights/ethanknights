@@ -1,6 +1,6 @@
 # Word of the Day
 
-**meacock**: An uxorious, effeminate, or spiritless man.
+**flapperdom**: The realm or sphere of flappers, or forward young women.
 
 ---
 
