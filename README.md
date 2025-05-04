@@ -1,6 +1,6 @@
 # Word of the Day
 
-**flapperdom**: The realm or sphere of flappers, or forward young women.
+**waragi**: A distilled alcoholic beverage made from bananas or millet.
 
 ---
 
