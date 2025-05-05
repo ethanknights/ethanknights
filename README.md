@@ -1,6 +1,6 @@
 # Word of the Day
 
-**waragi**: A distilled alcoholic beverage made from bananas or millet.
+**anthropophagous**: Man-eating; hominivorous; feeding on human flesh.
 
 ---
 
