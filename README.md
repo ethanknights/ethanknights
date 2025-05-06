@@ -1,6 +1,6 @@
 # Word of the Day
 
-**anthropophagous**: Man-eating; hominivorous; feeding on human flesh.
+**sgraffito**: Decoration produced on pottery or ceramic by scratching through a surface of plaster or glazing to reveal a different color underneath.
 
 ---
 
