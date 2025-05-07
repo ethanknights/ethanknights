@@ -1,6 +1,6 @@
 # Word of the Day
 
-**sgraffito**: Decoration produced on pottery or ceramic by scratching through a surface of plaster or glazing to reveal a different color underneath.
+**ochlophobist**: One who fears crowds or mobs; one who dreads the ascendancy of the mob or mob-rule.
 
 ---
 
