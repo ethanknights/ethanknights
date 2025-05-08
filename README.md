@@ -1,6 +1,6 @@
 # Word of the Day
 
-**ochlophobist**: One who fears crowds or mobs; one who dreads the ascendancy of the mob or mob-rule.
+**silviculture**: The care and cultivation of forest trees; forestry.
 
 ---
 
