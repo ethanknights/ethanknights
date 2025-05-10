@@ -1,6 +1,6 @@
 # Word of the Day
 
-**gobemouche**: Literally, a fly swallower; hence, once who keeps his mouth open; a boor; a silly and credulous person.
+**foliose**: Bearing numerous leaves; leafy.
 
 ---
 
