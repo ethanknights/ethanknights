@@ -1,6 +1,6 @@
 # Word of the Day
 
-**foliose**: Bearing numerous leaves; leafy.
+**corker**: One who or that which corks.
 
 ---
 
