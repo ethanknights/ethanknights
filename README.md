@@ -1,6 +1,6 @@
 # Word of the Day
 
-**corker**: One who or that which corks.
+**velure**: A textile fabric having a thick soft nap; velvet or velveteen.
 
 ---
 
