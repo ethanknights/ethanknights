@@ -1,6 +1,6 @@
 # Word of the Day
 
-**velure**: A textile fabric having a thick soft nap; velvet or velveteen.
+**gite**: A French holiday home, or rented tourist cottage.
 
 ---
 
