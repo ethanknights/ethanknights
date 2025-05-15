@@ -1,6 +1,6 @@
 # Word of the Day
 
-**rebato**: A stiff flaring collar wired to stand up at the back of the head, worn by men and women in the 1500s and early 1600s.
+**semblable**: Like; similar; resembling.
 
 ---
 
