@@ -1,6 +1,6 @@
 # Word of the Day
 
-**semblable**: Like; similar; resembling.
+**genitrix**: The biological mother of a child
 
 ---
 
