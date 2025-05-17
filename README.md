@@ -1,6 +1,6 @@
 # Word of the Day
 
-**genitrix**: The biological mother of a child
+**spontoon**: A kind of halberd or partizan formerly serving as the distinguishing arm for certain officers of the British infantry.
 
 ---
 
