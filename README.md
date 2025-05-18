@@ -1,6 +1,6 @@
 # Word of the Day
 
-**spontoon**: A kind of halberd or partizan formerly serving as the distinguishing arm for certain officers of the British infantry.
+**prosopography**: A study of the individuals in a group of people within a specific context and their relationships.
 
 ---
 
