@@ -1,6 +1,6 @@
 # Word of the Day
 
-**prosopography**: A study of the individuals in a group of people within a specific context and their relationships.
+**barbiton**: An ancient Greek musical instrument of the lyre kind.
 
 ---
 
