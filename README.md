@@ -1,6 +1,6 @@
 # Word of the Day
 
-**barbiton**: An ancient Greek musical instrument of the lyre kind.
+**apricate**: To bask in the sun.
 
 ---
 
