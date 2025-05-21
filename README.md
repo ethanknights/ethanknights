@@ -1,6 +1,6 @@
 # Word of the Day
 
-**apricate**: To bask in the sun.
+**thraneen**: An insignificant amount; a trifle.
 
 ---
 
