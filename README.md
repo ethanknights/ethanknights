@@ -1,6 +1,6 @@
 # Word of the Day
 
-**thraneen**: An insignificant amount; a trifle.
+**seedtime**: The time to sow a seed.
 
 ---
 
