@@ -1,6 +1,6 @@
 # Word of the Day
 
-**seedtime**: The time to sow a seed.
+**bumf**: Useless papers; now especially official documents, standardized forms, sales and marketing print material etc.
 
 ---
 
