@@ -1,6 +1,6 @@
 # Word of the Day
 
-**bumf**: Useless papers; now especially official documents, standardized forms, sales and marketing print material etc.
+**monticule**: A minor cone of a volcano.
 
 ---
 
