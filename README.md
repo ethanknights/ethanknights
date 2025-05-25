@@ -1,6 +1,6 @@
 # Word of the Day
 
-**monticule**: A minor cone of a volcano.
+**revetment**: A facing, as of masonry, used to support an embankment.
 
 ---
 
