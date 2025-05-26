@@ -1,6 +1,6 @@
 # Word of the Day
 
-**revetment**: A facing, as of masonry, used to support an embankment.
+**batholith**: A large mass of deep-seated igneous rock which may be exposed by erosion.
 
 ---
 
