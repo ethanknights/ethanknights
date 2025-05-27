@@ -1,6 +1,6 @@
 # Word of the Day
 
-**batholith**: A large mass of deep-seated igneous rock which may be exposed by erosion.
+**rap-full**: Full of wind: applied to sails when on a wind every sail stands full without lifting.
 
 ---
 
