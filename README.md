@@ -1,6 +1,6 @@
 # Word of the Day
 
-**rap-full**: Full of wind: applied to sails when on a wind every sail stands full without lifting.
+**senectitude**: Old age.
 
 ---
 
