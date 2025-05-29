@@ -1,6 +1,6 @@
 # Word of the Day
 
-**senectitude**: Old age.
+**benignant**: Kind; gracious; favorable: as, a benignant sovereign.
 
 ---
 
