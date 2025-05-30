@@ -1,6 +1,6 @@
 # Word of the Day
 
-**benignant**: Kind; gracious; favorable: as, a benignant sovereign.
+**thalassotherapy**: Treatment of disease by sea-bathing, a residence at the seashore, or a sea voyage.
 
 ---
 
