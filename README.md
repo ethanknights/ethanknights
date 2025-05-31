@@ -1,6 +1,6 @@
 # Word of the Day
 
-**thalassotherapy**: Treatment of disease by sea-bathing, a residence at the seashore, or a sea voyage.
+**strepitus**: A noise: noting any sound heard on auscultation of the chest.
 
 ---
 
