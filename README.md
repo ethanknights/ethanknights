@@ -1,6 +1,6 @@
 # Word of the Day
 
-**strepitus**: A noise: noting any sound heard on auscultation of the chest.
+**enchiridion**: A book to be carried in the hand; a manual; a handbook.
 
 ---
 
