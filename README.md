@@ -1,6 +1,6 @@
 # Word of the Day
 
-**enchiridion**: A book to be carried in the hand; a manual; a handbook.
+**preadamite**: One who lived before Adam; an inhabitant of the earth before the date assigned to Adam.
 
 ---
 
