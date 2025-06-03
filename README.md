@@ -1,6 +1,6 @@
 # Word of the Day
 
-**preadamite**: One who lived before Adam; an inhabitant of the earth before the date assigned to Adam.
+**fantassin**: A heavy-armed foot-soldier.
 
 ---
 
