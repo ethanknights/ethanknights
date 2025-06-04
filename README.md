@@ -1,6 +1,6 @@
 # Word of the Day
 
-**fantassin**: A heavy-armed foot-soldier.
+**inedia**: The ability to live without food.
 
 ---
 
