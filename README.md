@@ -1,6 +1,6 @@
 # Word of the Day
 
-**inedia**: The ability to live without food.
+**fozy**: Spongy; soft; fat and puffy.
 
 ---
 
