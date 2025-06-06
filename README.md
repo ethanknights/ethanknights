@@ -1,6 +1,6 @@
 # Word of the Day
 
-**fozy**: Spongy; soft; fat and puffy.
+**omneity**: That which is essentially all; that which comprehends all; allness; the Deity.
 
 ---
 
