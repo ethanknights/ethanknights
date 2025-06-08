@@ -1,6 +1,6 @@
 # Word of the Day
 
-**whiffletree**: The pivoted horizontal crossbar to which the harness traces of a draft animal are attached and which is in turn attached to a vehicle or an implement.
+**precariat**: People suffering from precarity, especially as a social class; people living a precarious existence, without security or predictability, especially job security.
 
 ---
 
