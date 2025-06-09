@@ -1,6 +1,6 @@
 # Word of the Day
 
-**precariat**: People suffering from precarity, especially as a social class; people living a precarious existence, without security or predictability, especially job security.
+**godown**: In India and East Asia, a warehouse, especially one at a dockside.
 
 ---
 
