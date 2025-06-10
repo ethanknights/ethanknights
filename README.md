@@ -1,6 +1,6 @@
 # Word of the Day
 
-**godown**: In India and East Asia, a warehouse, especially one at a dockside.
+**hogback**: A back like that of a hog; a back which rises in the middle.
 
 ---
 
