@@ -1,6 +1,6 @@
 # Word of the Day
 
-**hogback**: A back like that of a hog; a back which rises in the middle.
+**boondie**: A stone thrown as a weapon; a heavy club.
 
 ---
 
