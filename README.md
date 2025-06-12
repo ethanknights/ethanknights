@@ -1,6 +1,6 @@
 # Word of the Day
 
-**boondie**: A stone thrown as a weapon; a heavy club.
+**hypercoaster**: A roller coaster that goes up 200 feet or higher and can catapult riders from 0 to 70 mph in 4 seconds by motors originally designed to launch rockets.
 
 ---
 
