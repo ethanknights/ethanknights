@@ -1,6 +1,6 @@
 # Word of the Day
 
-**hypercoaster**: A roller coaster that goes up 200 feet or higher and can catapult riders from 0 to 70 mph in 4 seconds by motors originally designed to launch rockets.
+**biblioclasm**: Destruction of books, especially of the Bible.
 
 ---
 
