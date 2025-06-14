@@ -1,6 +1,6 @@
 # Word of the Day
 
-**biblioclasm**: Destruction of books, especially of the Bible.
+**saccade**: A rapid, jerky movement of the eyes between positions of rest.
 
 ---
 
