@@ -1,6 +1,6 @@
 # Word of the Day
 
-**saccade**: A rapid, jerky movement of the eyes between positions of rest.
+**fraudsman**: A trickster; a fraudulent person.
 
 ---
 
