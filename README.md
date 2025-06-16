@@ -1,6 +1,6 @@
 # Word of the Day
 
-**fraudsman**: A trickster; a fraudulent person.
+**portolano**: Originally the book of sailing-directions accompanying a chart, but later applied to any chart or map.
 
 ---
 
