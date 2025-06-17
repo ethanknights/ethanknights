@@ -1,6 +1,6 @@
 # Word of the Day
 
-**portolano**: Originally the book of sailing-directions accompanying a chart, but later applied to any chart or map.
+**espieglerie**: Impish or playful behaviour; mischief.
 
 ---
 
