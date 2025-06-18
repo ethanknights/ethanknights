@@ -1,6 +1,6 @@
 # Word of the Day
 
-**espieglerie**: Impish or playful behaviour; mischief.
+**hermeneut**: A practitioner of hermeneutics: someone who interprets a text.
 
 ---
 
