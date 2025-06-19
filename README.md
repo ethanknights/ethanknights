@@ -1,6 +1,6 @@
 # Word of the Day
 
-**hermeneut**: A practitioner of hermeneutics: someone who interprets a text.
+**persifleur**: One who indulges in light, playful chatter; a banterer; a quiz.
 
 ---
 
