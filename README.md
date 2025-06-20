@@ -1,6 +1,6 @@
 # Word of the Day
 
-**persifleur**: One who indulges in light, playful chatter; a banterer; a quiz.
+**nutrimental**: Having the qualities of food; nutritious; nourishing; alimental.
 
 ---
 
