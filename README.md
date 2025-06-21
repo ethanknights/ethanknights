@@ -1,6 +1,6 @@
 # Word of the Day
 
-**nutrimental**: Having the qualities of food; nutritious; nourishing; alimental.
+**nympholepsy**: A frenzy supposed by ancient peoples to have been induced by nymphs.
 
 ---
 
