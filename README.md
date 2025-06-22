@@ -39,6 +39,3 @@
 
 #### Prism Adaptation Effects on Anti-Pointing
 [2015] [[Code]](https://github.com/ethanknights/prisms_ego-vs-allo) [[Article]](https://researchportal.bath.ac.uk/en/publications/prism-adaptation-effects-are-not-limited-to-dorsal-visual-process)
-
-<br>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fethanknights1212%2Fhit-counter" />
