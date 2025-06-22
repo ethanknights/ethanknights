@@ -1,6 +1,6 @@
 # Word of the Day
 
-**nympholepsy**: A frenzy supposed by ancient peoples to have been induced by nymphs.
+**canty**: Cheerful; sprightly; lively; merry.
 
 ---
 
