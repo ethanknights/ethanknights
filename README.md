@@ -1,6 +1,6 @@
 # Word of the Day
 
-**canty**: Cheerful; sprightly; lively; merry.
+**ramraid**: To break into premises, for the purpose of robbery, by ramming a heavy vehicle through a window or wall.
 
 ---
 
