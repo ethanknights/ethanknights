@@ -1,6 +1,6 @@
 # Word of the Day
 
-**ramraid**: To break into premises, for the purpose of robbery, by ramming a heavy vehicle through a window or wall.
+**galantine**: A dish of boned, stuffed meat (or fish) that has been lightly poached, and is served cold
 
 ---
 
