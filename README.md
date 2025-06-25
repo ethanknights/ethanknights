@@ -1,6 +1,6 @@
 # Word of the Day
 
-**galantine**: A dish of boned, stuffed meat (or fish) that has been lightly poached, and is served cold
+**obtundation**: Decreased level of alertness or consciousness.
 
 ---
 
