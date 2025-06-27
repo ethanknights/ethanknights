@@ -1,6 +1,6 @@
 # Word of the Day
 
-**biometry**: The measurement of life; specifically, the calculation of the probable duration of human life.
+**kilderkin**: A cask.
 
 ---
 
