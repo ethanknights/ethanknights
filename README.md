@@ -1,6 +1,6 @@
 # Word of the Day
 
-**kilderkin**: A cask.
+**estivate**: To pass the summer, as in a given place or in a given manner.
 
 ---
 
