@@ -1,6 +1,6 @@
 # Word of the Day
 
-**estivate**: To pass the summer, as in a given place or in a given manner.
+**consectary**: Following logically; obviously deducible.
 
 ---
 
