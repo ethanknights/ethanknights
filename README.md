@@ -1,9 +1,3 @@
-# Word of the Day
-
-**wrick**: To twist; turn.
-
----
-
 # Representative Research Projects with Code
 
 #### Neural Evidence of Functional Compensation for Fluid Intelligence in Healthy Ageing
