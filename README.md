@@ -1,6 +1,6 @@
 # Word of the Day
 
-**consectary**: Following logically; obviously deducible.
+**wrick**: To twist; turn.
 
 ---
 
